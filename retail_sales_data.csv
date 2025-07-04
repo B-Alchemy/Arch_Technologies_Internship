@@ -1,0 +1,11 @@
+Order ID,Product Category,Sales Amount,Order Date,Region,Customer Name
+101,Electronics,250,1/5/2024,North,John
+102,Furniture,450,1/7/2024,South,Alice
+103,Clothing,150,1/10/2024,East,Bob
+104,Electronics,300,1/12/2024,West,Eve
+105,Furniture,500,1/15/2024,North,Mike
+106,Clothing,200,1/18/2024,South,Sara
+107,Electronics,400,1/22/2024,East,Tom
+108,Furniture,550,1/25/2024,West,Jane
+109,Clothing,180,1/28/2024,North,Sam
+110,Electronics,350,1/30/2024,South,Lily
